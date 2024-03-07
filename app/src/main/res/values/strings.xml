@@ -3,4 +3,14 @@
 
     <string name="next">NEXT</string>
     <string name="previous">PREVIOUS</string>
+
+    <string name="place1"> Queenstown, New Zealand </string>
+    <string name="author1"> Lachlan Dempsey </string>
+
+
+    <string name="place2"> Beautiful place </string>
+    <string name="author2"> Bernard Hermant </string>
+
+    <string name="place3"> Amazing place </string>
+    <string name="author3"> Marek Pospíšil </string>
 </resources>
